@@ -57,6 +57,14 @@ sql/          dataset and cleaning + analysis queries
 powerbi/      Power BI file (.pbix)
 screenshots/  dashboard page images
 docs/         quick HTML preview of main KPIs and charts
+
+ ## About Me
+**Jatin Sankhla** | Data Analyst
+
+I built this project to practise the full analytics workflow: cleaning data in SQL, modelling it, and presenting insights in Power BI.
+
+- LinkedIn: [Jatin Sankhla](https://www.linkedin.com/in/jatin-sankhla-073b25441/)
+- Email: jatinsankhla980@gmail.com
 ```
 
 ## How to run
